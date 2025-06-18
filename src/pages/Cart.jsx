@@ -31,7 +31,7 @@ const Cart = () => {
                 Total: ₹{total}
               </h3>
               <Link
-                to="/checkout"
+                to="/"
                 className="bg-green-500 hover:bg-green-600 text-white py-3 px-2 w-52 sm:px-6 sm:w-auto rounded-lg transition-colors"
               >
                 Proceed to Checkout
